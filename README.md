@@ -6,7 +6,7 @@
   </h1>
 </p>
 
-#### Bio
+#### About
 Hello, I'm Andrew and this is a little bit of information about me.
 
 I have alway been interested in technology and computers.  Around age 8 I started learning
@@ -36,7 +36,8 @@ over the years.
 #### Hobbies and Interests
 
 I am married and have two kids and I love spending time with my family.  We go on hikes together and work
-in the yard together.  I am a den leader for my daughter's cub scout den and am a committee member
+in the yard together. I achieved the rank of Eagle Scout as a youth, and I love participating
+in scout activities as an adult. I am a den leader for my daughter's cub scout den and am a committee member
 in my son's scout troop.  When I'm not hanging out with my family I love to tinker with home automation.
 I have an instance of [Home Assistant](https://www.home-assistant.io/) running on a RaspberryPi and
 have many things in our home automated.
